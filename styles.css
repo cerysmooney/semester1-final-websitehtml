@@ -1,5 +1,5 @@
 body { 
-    background-color: plum;
+    background-color:  #8F9779;
     /* #BED489  #ADBEA2 */
 } 
 h1,h2,h3,h4,h5,h6 {
@@ -41,6 +41,11 @@ p {
 .writing {
     width: 100px
 }
+.carpimage {
+    width:200px;
+    border-style:solid;
+    border-color:black;
+}
 .typocontainer {
     display: flex;
     justify-content: space-evenly;
@@ -54,14 +59,14 @@ p {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
-    padding: 0px 0px 15px 0px;
+    padding: 15px 0px 15px 25px;
+    background-color: #ADBEA2
 }
 .carpcontainer {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
-    padding: 0px 0px 15px 0px;
-
+    padding: 0px 0px 15px 38px;
 }
 .carp_item .carpwrite {
     flex: 1;
