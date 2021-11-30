@@ -32,5 +32,10 @@ p {
     justify-content: flex-start;
     flex-wrap: wrap;
     padding: 15px 25px 15px 15px;
+}
+.typography_item .writing {
+    flex: 1;
+    padding: 10px;
+
     
 }
