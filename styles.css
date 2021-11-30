@@ -56,3 +56,18 @@ p {
     flex-wrap: wrap;
     padding: 0px 0px 15px 0px;
 }
+.carpcontainer {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 0px 0px 15px 0px;
+
+}
+.carp_item .carpwrite {
+    flex: 1;
+    padding: 10px;
+    width: 200px;
+}
+.carpwrite {
+    width: 100px;
+}
