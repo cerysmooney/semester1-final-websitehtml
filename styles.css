@@ -50,3 +50,9 @@ p {
     flex-direction: row;
 
 }
+.carp_item {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 0px 0px 15px 0px;
+}
