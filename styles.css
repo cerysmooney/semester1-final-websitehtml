@@ -36,9 +36,10 @@ p {
 .typography_item .writing {
     flex: 1;
     padding: 10px;
-    width: 200px;
-
-    
+    width: 200px;  
+}
+.writing {
+    width: 50px
 }
 .typocontainer {
     display: flex;
