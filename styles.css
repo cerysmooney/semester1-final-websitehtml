@@ -2,42 +2,14 @@ body {
     background-color: plum;
     /* #BED489  #ADBEA2 */
 } 
-h1 {
+h1,h2,h3,h4,h5,h6 {
     text-align: center;
     color: white;
     font-size: 50px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
-h2 {
-    text-align: center;
-    color: white;
-    font-size: 50px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
-h3 {
-    text-align: center;
-    color: white;
-    font-size: 50px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
-h4 {
-    text-align: center;
-    color: white;
-    font-size: 50px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
-h5 {
-    text-align: center;
-    color: white;
-    font-size: 50px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
-h6 {
-    text-align: center;
-    color: white;
-    font-size: 50px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
+
+
 button {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 10px;
