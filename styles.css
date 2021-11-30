@@ -31,7 +31,7 @@ p {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
-    padding: 15px 25px 15px 15px;
+    padding: 0px 0px 15px 0px;
 }
 .typography_item .writing {
     flex: 1;
