@@ -27,3 +27,10 @@ p {
     border-width: 2px;
 
 }
+.typography_item {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 15px 25px 15px 15px;
+    
+}
