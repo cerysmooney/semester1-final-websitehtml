@@ -98,7 +98,10 @@ p {
     width: 150px;
 }
 .uximage {
-    width: 450px;
+    width: 320px;
     border-style:solid;
     border-color:black;
+    border-width: 2px;
+    align-items: center;
+    
 }
