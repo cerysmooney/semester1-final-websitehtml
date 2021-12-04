@@ -96,3 +96,8 @@ p {
 .uxwriting {
     width: 150px;
 }
+.uximage {
+    width: 450px;
+    border-style:solid;
+    border-color:black;
+}
