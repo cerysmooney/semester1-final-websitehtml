@@ -29,7 +29,7 @@ p {
 
 }
 .typography_item {
-    border: 1px solid green;
+   
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
