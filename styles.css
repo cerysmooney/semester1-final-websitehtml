@@ -63,14 +63,14 @@ p {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
-    padding: 15px 0px 15px 80px;
+    padding: 15px 0px 0px 15px;
     background-color: #ADBEA2
 }
 .carpcontainer {
     display: flex;
     justify-content: flex-start;
     /* flex-wrap: wrap; */
-    padding: 0px 0px 15px 80px;
+    padding: 0px 0px 15px 0px;
     
 }
 .carp_item .carpwrite {
