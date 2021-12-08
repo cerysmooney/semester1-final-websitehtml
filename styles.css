@@ -98,6 +98,7 @@ p {
 }
 .codewrite {
     width: 600px;
+    padding: 0px 0px 0px 1px
 }
 .codewrite .code_item {
     flex: 1;
