@@ -87,7 +87,7 @@ p {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
-    padding: 0px 0px 15px 0px;
+    padding: 0px 0px 15px 360px;
 
 }
 .codecontainer {
@@ -97,7 +97,7 @@ p {
     padding: 0px 0px 15px 0px;
 }
 .codewrite {
-    width: 600px;
+    width: 900px;
     padding: 0px 0px 0px 1px
 }
 .codewrite .code_item {
@@ -106,7 +106,7 @@ p {
     width: 200px;
 }
 .codeimage {
-    width: 712px;
+    width: 912px;
     border-style:solid;
     border-color:black;
 
