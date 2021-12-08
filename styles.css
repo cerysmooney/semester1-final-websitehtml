@@ -82,6 +82,19 @@ p {
 .carpwrite {
     width: 100px;
 }
+.code_item {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 0px 0px 15px 0px;
+
+}
+.codecontainer {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 0px 0px 15px 0px;
+}
 .ux_item {
     justify-content: flex-start;
     flex-wrap: wrap;
