@@ -95,6 +95,14 @@ p {
     flex-wrap: wrap;
     padding: 0px 0px 15px 0px;
 }
+.codewrite {
+    width: 100px;
+}
+.codewrite .code_item {
+    flex: 1;
+    padding: 10px;
+    width: 200px;
+}
 .ux_item {
     justify-content: flex-start;
     flex-wrap: wrap;
@@ -107,6 +115,7 @@ p {
     flex-wrap: wrap;
     padding: 0px 0px 15px 80px;
 }
+
 .ux_item .uxwriting {
     flex: 1;
     padding: 10px;
