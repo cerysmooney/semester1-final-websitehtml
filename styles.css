@@ -103,6 +103,12 @@ p {
     padding: 10px;
     width: 200px;
 }
+.codeimage {
+    width: 712px;
+    border-style:solid;
+    border-color:black;
+
+}
 .ux_item {
     justify-content: flex-start;
     flex-wrap: wrap;
