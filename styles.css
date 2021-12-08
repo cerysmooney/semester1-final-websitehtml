@@ -82,7 +82,6 @@ p {
     width: 100px;
 }
 .ux_item {
-    display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
     padding: 15px 0px 15px 25px;
@@ -102,7 +101,8 @@ p {
     width: 150px;
 }
 .uximage {
-    width: 320px;
+    width: 480px;
+    height: 480px;
     border-style:solid;
     border-color:black;
     border-width: 2px;
