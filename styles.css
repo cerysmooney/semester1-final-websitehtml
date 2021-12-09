@@ -65,7 +65,7 @@ p {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
-    padding: 15px 0px 0px 15px;
+    padding: 0px 0px 0px 15px;
 }
 .carpcontainer {
     display: flex;
