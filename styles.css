@@ -149,3 +149,9 @@ p {
     align-items: center;
     
 }
+.buttoncontainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:flex-start;
+}
