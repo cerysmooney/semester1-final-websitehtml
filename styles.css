@@ -9,6 +9,14 @@ h1,h2,h3,h4,h5,h6 {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
+
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:medium;
+}
+
+
+
 .buttoncontainer {
     display: flex;
     flex-wrap: wrap;
@@ -23,11 +31,19 @@ button {
     border: 10px #BED489;
     border-radius: 10px;
     background-color: white;
+    transition-duration: 0.4s;
+    font-size: medium;
 }
-p {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size:medium;
+button:hover {
+    background-color: #8C7C84;
+    color:white;
 }
+button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 2px lightgreen;
+    transform: translateY(2px);
+}
+
 .type-image {
     width: 400px;
     height: 400px;
