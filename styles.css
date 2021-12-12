@@ -17,6 +17,7 @@ p {
 
 
 
+
 .buttoncontainer {
     display: flex;
     flex-wrap: wrap;
@@ -39,8 +40,8 @@ button:hover {
     color:white;
 }
 button:active {
-    background-color: #3e8e41;
-    box-shadow: 0 2px lightgreen;
+    background-color: #8F9385;
+    box-shadow: 0 2px  #ADBEA2;
     transform: translateY(2px);
 }
 
