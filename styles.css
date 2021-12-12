@@ -9,12 +9,18 @@ h1,h2,h3,h4,h5,h6 {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
+.buttoncontainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:center;
+}
 
 button {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding: 10px;
-    margin: 0px 3px;
-    border: 1px purple;
+    padding: 15px;
+    margin: 0px 10px;
+    border: 10px #BED489;
     border-radius: 10px;
     background-color: white;
 }
@@ -148,10 +154,4 @@ p {
     border-width: 2px;
     align-items: center;
     
-}
-.buttoncontainer {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content:flex-start;
 }
