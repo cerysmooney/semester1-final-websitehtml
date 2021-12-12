@@ -12,8 +12,12 @@ h1,h2,h3,h4,h5,h6 {
 
 
 p {
+    background-color: #bfc3b2;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size:medium;
+    border-style: dotted;
+    border-color: #8C7C84;
+    padding: 2px
 }
 
 
