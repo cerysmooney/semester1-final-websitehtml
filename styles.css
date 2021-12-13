@@ -14,6 +14,11 @@ h1 {
     color: white;
     font-size: 70px;
 }
+.pwriting3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 19px;
+}
 .pwriting {
       background-color: #C3C0CE;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -31,11 +36,6 @@ h1 {
     text-align: center;
     border-style: ridge;
      border-color: #9893AB ;
-}
-.pwriting3 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: center;
-    font-size: 19px;
 }
 
 p {
