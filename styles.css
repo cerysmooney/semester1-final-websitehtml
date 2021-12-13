@@ -28,9 +28,10 @@ p {
 .pwriting {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     /* padding-left: 80px; */
-    text-align: justify;
+    text-align: center;
     word-spacing: 2px;
-    font-size:medium;
+    font-size:17px;
+    
 }
 
 
