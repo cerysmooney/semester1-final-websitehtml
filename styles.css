@@ -22,7 +22,9 @@ p {
 
 .pwriting {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding-left: 120px;
+    padding-left: 80px;
+    word-spacing: 2px;
+    font-size:medium;
 }
 
 
