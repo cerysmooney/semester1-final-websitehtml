@@ -14,11 +14,23 @@ h1 {
     color: white;
     font-size: 70px;
 }
+.pwriting {
+      background-color: #C3C0CE;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* padding-left: 80px; */
+    border-style: dashed;
+    border-color:#9893AB;
+    border-width: 2px; 
+    text-align: center;
+    word-spacing: 1px;
+    font-size:17px;
+    
+}
 
 .pwriting2 {
     text-align: center;
     border-style: ridge;
-    /* border-color: #8C7C84 ; */
+     border-color: #9893AB ;
 }
 
 p {
@@ -30,15 +42,6 @@ p {
     border-width: 3px;
 }
 
-.pwriting {
-      background-color: #C3C0CE;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* padding-left: 80px; */
-    text-align: center;
-    word-spacing: 1px;
-    font-size:17px;
-    
-}
 
 
 
@@ -60,7 +63,7 @@ button {
     font-size: medium;
 }
 button:hover {
-    background-color: #817997;
+    background-color: #9893AB;
     color:white;
 }
 button:active {
